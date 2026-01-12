@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on WEB projets : modern website / WEB videogames !!
 - 📫 How to reach me : you can reach me via discord : pintour3
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: im learning by myself, only 2 years of experience, started from scratch in august 2023
+- ⚡ Fun fact: im learning by myself, only 2.5 years of experience, started from scratch in august 2023
 
 <!---
 Pintour3/Pintour3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
